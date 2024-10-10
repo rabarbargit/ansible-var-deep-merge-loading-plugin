@@ -1,4 +1,4 @@
-# ansible-var-deep-merge-loading-plugin
+
 
 Please create plugins/vars folder in you main ansible directory.
 Then place the 'merge_group_vars.py' file there.
